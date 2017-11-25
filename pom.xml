@@ -55,12 +55,6 @@
 			<version>2.11.0-jitpacktwo</version>
 			<scope>provided</scope>
 		</dependency>
-		<dependency>
-			<groupId>com.github.CivClassic</groupId>
-			<artifactId>Mercury</artifactId>
-			<version>master-SNAPSHOT</version>
-			<scope>provided</scope>
-		</dependency>
 	</dependencies>
 
 	<repositories>
